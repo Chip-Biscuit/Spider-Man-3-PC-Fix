@@ -26,6 +26,8 @@ part in game you can then switch from the patched high fps to the origional game
 
 This just toggles between (30fps) and (uncapped "whatever fps you define in D3D9.INI FPSLimit = " )
 
+SpiderMan3Fix-nomessagebox.zip (this is a release for anyone who doesnt wish for the messagebox pop up to choose your own hotkey to swap fps in game, Instead the hotkey will just always be "P" Key on your keyboard.
+
 If you have any issues please go to discord for help 
 
 https://discord.gg/eVJ7sQH7Cc
