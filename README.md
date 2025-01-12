@@ -8,6 +8,8 @@ you can edit settings in d3d9.ini
 
 fullscreen resolution is set to (0) by default this is off or 1920 x 1080 make sure your set to 1920 x 1080 in game for the d3d9.dll resolution fix to work and then you can choose whatever resolution you want from the d3d9.ini
 
+if the reaolution appears to not be working try going into the game options and seeing if your resolution is there after setting the ini
+
 aspect ratio is calculated by the resolution you set in the ini.   
 
 Default for FPS cap is 60 you can change it to whatever number you like or uncap with 0 (set vsync to fast in your pc to avoid screen tearing above your monitors refresh rate)
