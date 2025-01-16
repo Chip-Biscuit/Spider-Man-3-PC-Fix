@@ -24,10 +24,15 @@ This version has no message box asking you to choose a key before launching the 
 
 # List of various bugs that can happen within the game at FPS higher than 30.
 •    Mad Bomber mission 3 - Kicking bombs into the ocean doesn't work because they explode in mid-air.
+
 •    Dragon Tail mission 2 - Stopping the helicopter from dropping doesn't work because it drops too quickly to stop.
+
 •    Dr. Connors mission 1 (after removing the black suit) - When all 3 serum ingredients are collected, the game may crash.
+
 •    Daily Bugle photo mission 2 (Arsenic Candy beauty contest) - The 3rd girl will walk off the stage instead of stopping to pose and the show will never continue.
+
 •    A random side mission involving the Dragon Tails and bombs inside a bank - The bombs will become too sensitive to movement to be taken outside for disposal.
+
 
 # Steam Deck
 There is also a fix specifically for the Steam Deck that supports this hardware’s requirements. People playing on the Steam Deck should download the SpiderMan3Fix_Steam_Deck.zip, this fix contains all of the fixes listed above.
