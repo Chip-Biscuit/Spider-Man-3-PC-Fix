@@ -5,7 +5,7 @@ Go to release, download the Spider-Man 3 Fix that fits the requirements you need
 
 # Resolution/Aspect Ratio
 This applies to all fix releases; you must have launched the game once and set the resolution to 1920x1080 in the video options menu. If this is not done, then the d3d9.dll file will not work correctly.
-Resolution is set to (0) by default this is off or 1920 x 1080. Choose a resolution that is correct for you from the selection within the d3d9.ini file and replace (0) with the number correct for you.
+Resolution is set to 1920x1080 by default in the d3d9.ini. Choose a resolution that is correct for you by entering your width and height within the d3d9.ini file.
 If you boot up the game after setting the resolution you want in the d3d9.ini file and the resolution has not changed automatically then go to the video option menu in game and select your resolution from in there.
 The aspect ratio is automatically calculated by the resolution that you have set in the d3d9 ini file.
 
