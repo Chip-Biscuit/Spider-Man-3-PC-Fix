@@ -33,10 +33,6 @@ This version has no message box asking you to choose a key before launching the 
 
 •    A random side mission involving the Dragon Tails and bombs inside a bank - The bombs will become too sensitive to movement to be taken outside for disposal.
 
-
-# Steam Deck
-There is also a fix specifically for the Steam Deck that supports this hardware’s requirements. People playing on the Steam Deck should download the SpiderMan3Fix_Steam_Deck.zip, this fix contains all of the fixes listed above.
-
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below.
 https://discord.gg/eVJ7sQH7Cc
