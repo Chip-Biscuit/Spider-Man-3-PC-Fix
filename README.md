@@ -33,6 +33,9 @@ This version has no message box asking you to choose a key before launching the 
 
 •    A random side mission involving the Dragon Tails and bombs inside a bank - The bombs will become too sensitive to movement to be taken outside for disposal.
 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/spider-man-3-2007
+
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below.
 https://discord.gg/eVJ7sQH7Cc
