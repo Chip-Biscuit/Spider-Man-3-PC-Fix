@@ -1,7 +1,7 @@
 # Spider-Man 3 PC Fix
 
 # Instructions
-Go to release, download the Spider-Man 3 Fix that fits the requirements you need, then extract the d3d9.dll and d3d9.ini into your game install folder next to game.exe and your good to go! You can edit the settings you wish to use in the d3d9.ini file.
+Go to release, download the Spider-Man 3 latest release Fix, then extract the d3d9.dll and d3d9.ini into your game install folder next to game.exe and your good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
 # Resolution/Aspect Ratio
 This applies to all fix releases; you must have launched the game once and set the resolution to 1920x1080 in the video options menu. If this is not done, then the d3d9.dll file will not work correctly.
@@ -17,7 +17,7 @@ Default for FPS cap is 60 you can change it to whatever number you like or uncap
 This game uses an FPS toggle feature. This is required to be able to play the game properly and allow the player to complete certain parts of the game that break on any FPS higher than 30fps. There are 2 versions of the fix for FPS one which allows the user to use a button of their choice for the toggle feature. The other version sets the key ‘P’ to the toggle key by default. These are explained below.
 
 # Spider-Man 3 Fix
-The FPS can be toggled with any key the player chooses. There will be a message box that will pop up before the game launches which will give you instructions on what you must do. Click OK on the first pop up message box, then click any button on your keyboard or mouse and it will then confirm the button choice and launch the game. Then in the game you can use the key you have selected to toggle between 30 and the desired FPS (set in the d3d9.ini file) within the game at any time.
+The FPS can be toggled with any key the player chooses using [hotkey]keycodes.txt and d3d9.ini. 
 
 # Spider-Man 3 Fix-NoMessageBox
 This version has no message box asking you to choose a key before launching the game. The FPS toggle key will always be ‘P’ on the keyboard.
