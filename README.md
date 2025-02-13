@@ -1,5 +1,7 @@
 # Spider-Man 3 PC Fix
 
+![spiderman3](https://github.com/user-attachments/assets/749d73b1-e850-49f5-b573-6c3bdff99a59)
+
 # Instructions
 Go to release, download the Spider-Man 3 latest release Fix, then extract the d3d9.dll and d3d9.ini into your game install folder next to game.exe and your good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
