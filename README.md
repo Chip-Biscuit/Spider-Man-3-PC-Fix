@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Spider-Man 3 PC Fix
 
 ![spiderman3](https://github.com/user-attachments/assets/749d73b1-e850-49f5-b573-6c3bdff99a59)
